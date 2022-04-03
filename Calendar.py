@@ -1,6 +1,3 @@
-from calendar import month
-
-
 class MyCalendar:
 
     daysOfTheWeek = ["Wednesday", "Thursday", "Friday", "Saturday", "Sunday",  "Monday", "Tuesday", ]
